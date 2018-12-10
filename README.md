@@ -1,2 +1,1 @@
-# Minion
-Heart Disease Prediction  
+
